@@ -2,6 +2,10 @@
   "expo": {
     "name": "quiz_namibia",
     "slug": "quiz_namibia",
+    "android": { 
+      "package": "org.swallow.rnsample.app",
+      "permissions": []  
+    },
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +25,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
